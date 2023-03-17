@@ -12,7 +12,6 @@ function px(arr) {
     return arr
 }
 
-
 function main(arr1, arr2, num) {
     let arr3 = px(arr1)
     let arr4 = px(arr2)
